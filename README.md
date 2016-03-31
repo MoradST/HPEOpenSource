@@ -39,7 +39,7 @@ Open Source Round Table / Dev Communities
 5.	Growing HPE or self-community VS Joining community
 
 
-### One day - Lunche event
+### One day - launch event
 
 Date: June 1.
 
