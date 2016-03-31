@@ -1,10 +1,9 @@
 # HPEOpenSource
 
-This document willcontain
-
 Open Source Round Table / Dev Communities
-Date: March, 31. 2016
-Participants:
+
+**Date:** March, 31. 2016
+**Participants:**
 •	Erez Yaari (over phone)
 •	Liran Tal
 •	Adi Ofry
