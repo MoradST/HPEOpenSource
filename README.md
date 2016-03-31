@@ -45,7 +45,7 @@ Date: June 1.
 
 10:00-11:00 -- What’s in it for me + intro to GitHub
 
-11:30- 12:30 – Yad VaShem's HPE hackathon product goes GitHub (Uri Kalish) 
+11:30- 12:30 -- Yad VaShem's HPE hackathon product goes GitHub (Uri Kalish) 
 
 14:00-15:00 -- [workshop with GitHub representative?]
 
@@ -59,13 +59,18 @@ Date: June 1.
 
 ###Launching event. More detalis:
 •	GitHub representative to come here (Yehud) and take part 
+
 •	Agenda and content should be tighter
+
 •	This event should kick-off series of open source meetups till end of 2016 
 
 ###More
 •	HPE to take leading role in taking care of NGOs going open source 
+
 •	Idea: Road to open source – print and distribution?
+
 •	Social mapping of official GitHub accounts and prominent Open Source advocats should be made 
+
 
 
 
