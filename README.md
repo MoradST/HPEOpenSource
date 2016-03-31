@@ -5,29 +5,47 @@ Open Source Round Table / Dev Communities
 **Date:** March, 31. 2016
 
 **Participants:**
+
 •	Erez Yaari (over phone)
+
 •	Liran Tal
+
 •	Adi Ofry
-•	Nit Geier
-•	Arik Levin
+
+•	Nir Geier
+
+•	Arik Levin (x)
+
 •	Eyal Levi
-•	Uri Kalish
-•	Eitan Schichmanter
+
+•	Uri Kalish (x)
+
+•	Eitan Schichmanter (x)
+
 •	Eyal Dahary
+
 •	Eyal Levi
+
 •	Lilo Elia
 
-Idea: OS meetups series starting with launching event
+
 
 Topics to cover 
 1.	Opening GitHub account (workshop)
+2.	
 2.	What is Open Source (lecture)
+3.	
 3.	Taking Yad VaShem to GitHub (lecture)
-4.	Communities practices:
+4.	
+4.	Communities practices
+5.	
 a.	Grow HPE / self-community
+
 b.	Join community
 
-One day
+
+## One day - Lunche event
+Date: To be decheduale
 10:00-11:00 -- Introduction what’s in it for me (optional session what’s in it for HPE) + intro to GitHub
 11:30- 12:30 – HPE experience of taking 
 
