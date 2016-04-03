@@ -224,3 +224,29 @@ In HPE we have an opportunity to help build the new brand in a way that is softw
 **What:** Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty cool. He's extendable with scripts and can work on many different chat services.
 
 **Why:** Collaboration is an important element in the mode2 enterprise IT and has the ability to bring together multiple personas and tools to form a DevOps operating model.
+
+###CloudSlang
+**Domain:** Orchestration
+
+**Stars:** 107
+
+**Language:** Java, Slash
+
+**Link** https://github.com/CloudSlang/cloud-slang
+
+**What:** CloudSlang is an open source tool for orchestrating cutting edge technologies, such as Docker and CoreOS in an agentless manner. Use ready-made workflows or define your own custom ones. CloudSlang workflows are reusable, shareable and easy to understand.
+
+**Why:** Process-Based, Ready-made Content, Agentless
+
+###Verigreen
+**Domain:** Build
+
+**Stars:** 30
+
+**Language:** Java, JavaScript
+
+**Link** https://github.com/Verigreen/verigreen
+
+**What:** More Check-ins. Less Build Breaks. A gated check-in solution that saves your developers' time and fights DevOps gray hair
+
+**Why:** Saves you time, Keep your preferences, More successful commits, Easy to use
