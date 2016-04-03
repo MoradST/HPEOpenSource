@@ -188,7 +188,7 @@ These projects where picked and represent a broad spectrum of domains.
 
 **Stars:** 9,902
 
-**Language:
+**Language:** CoffeeScript
 
 **Link:** https://github.com/github/hubot
 
