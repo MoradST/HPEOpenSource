@@ -4,9 +4,7 @@ https://github.com/search?q=stars:%3E1&s=stars&type=Repositories
 ##Prefix
 The list of Open Source projects below was assembled to provide HPE employees an opportunity to focus their open source contribution in a manner that might benefit both the employee and HPE. As these projects are some of the busiest projects on GitHub, they provide a great opportunity for employees to work on meaningful and disruptive innovations while building a name for themselves.
 
-These projects also have a profound impact on HPE in multiple layers and as such having HPE employees participate might enhance HPE’s brand on one hand and allow HPE to better contribute to the direction these projects are taking.
-
-In HPE we have an opportunity to help build the new brand in a way that is software and developer focused, hence those projects where picked and represent a broad spectrum of domains from Containers through Data Center all down to IoT.
+These projects where picked and represent a broad spectrum of domains.
 
 
 ##Containers
@@ -22,7 +20,7 @@ In HPE we have an opportunity to help build the new brand in a way that is softw
 
 **What:** Docker is an open source project to pack, ship and run any application as a lightweight container. Docker leads the container disruption which is a strategic pillar for HPE in the new data center. Containers also enable the introduction of micro-services architecture which impacts development stacks. Docker is built from a set of projects that make up the Docker set of engines.
 
-**Why:** HPE has a strategic partnership with Docker that constantly expands. Docker is causing a ripple effect in both dev and ops so worth to keep a close eye on what’s happening.
+**Why:** Docker is causing a ripple effect in both dev and ops so worth to keep a close eye on what’s happening.
 
 ###runc
 **Domain:** Containerization
@@ -77,19 +75,6 @@ In HPE we have an opportunity to help build the new brand in a way that is softw
 
 **Why:** hashiCorp (father of Consul) is a well respected name in the development space for cloud computing and Consul is becoming a leading element of how micro-services find one another to enable cloud computing runtime. 
 
-###Terraform
-**Domain:** Cloud Infra
-
-**Stars:** 3,724
-
-**Language:** Go
-
-**Link:** https://github.com/hashicorp/terraform
-
-**What:** Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
-
-**Why:** hashiCorp (father of Consul) is a well respected name in the development space for cloud computing and Terraform is aiming to solve the pain of cloud platform abstraction from the application teams.
-
 ###Apache Mesos
 **Domain:** Data Center
 
@@ -115,20 +100,6 @@ In HPE we have an opportunity to help build the new brand in a way that is softw
 **What:** Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. http://ansible.com/
 
 **Why:** TBD
-
-###Salt
-**Domain:** Data Center
-
-**Stars:** 6,128
-
-**Language:** Python
-
-**Link:** https://github.com/saltstack/salt
-
-**What:** Salt is a new approach to infrastructure management. Easy enough to get running in minutes, scalable enough to manage tens of thousands of servers, and fast enough to communicate with them in seconds. Salt delivers a dynamic communication bus for infrastructures that can be used for orchestration, remote execution, configuration management and much more.
-
-**Why:** TBD
-
 
 
 ##Big Data
