@@ -33,15 +33,21 @@
 ---------------------------------- 
 
 Date: June 1.  
-10:00 - 11:00 -- What’s in it for me + intro to GitHub  
-11:30 - 12:30 -- Yad VaShem's HPE hackathon product goes GitHub (Uri Kalish)  
-14:00 - 15:00 -- [workshop with GitHub representative?]  
-15:30 - 16:30 -- __TBD__  
+* 10:00 - 11:00 -- Liran Tal - Subtle introduction to Open Source and GitHub 
+
+See my presentation here called Welcome to GitHub: http://lirantal.github.io/presentation-welcome-to-github/ which I used for both HPE local meetups and [hellojs](hellojs.org) conference in Cluj, Romania.
+
+A refined version of it is also here: http://lirantal.github.io/presentation-open-source-and-the-mean-stack/#/
+
+* 11:30 - 12:30 -- Yad VaShem's HPE hackathon product goes GitHub (Uri Kalish)  
+* 14:00 - 15:00 -- [workshop with GitHub representative?]  
+* 15:30 - 16:30 -- __TBD__  
 
 ***`Open meetup to outside developers:`***
 ------------------------------------------
-18:00 -20:00 GitHub representative: How to build communities on GitHub
-
+* 18:00 - 18:30 Mingeling, Pizza & Drinks
+* 18:30 - 20:00 GitHub representative: How to build communities on GitHub
+* 20:00 - 21:00 *Optional* GitHub and Open Source in HPE
 
 ***`Launching event. More detalis:`***
 --------------------------------------
