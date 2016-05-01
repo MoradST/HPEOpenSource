@@ -1,5 +1,9 @@
 # HPEOpenSource
 
+###Our official Meetup group is now live!
+Join us and feel free to share the love:
+http://www.meetup.com/Open-Source-Meetup-HPE-IL/
+
 ###Open Source Round Table / Dev Communities
 
 ***Date:*** ***`March, 31. 2016`***
